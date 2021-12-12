@@ -23,4 +23,6 @@ gestures.
 ● Dice Number Recognition: We Used blog detection of OpenCV library to detect the number of
 circles present on the top face of the die.
 
+##### Video:
+https://user-images.githubusercontent.com/76437900/145723820-b14dc8e4-c41d-437b-b504-293974a5aebb.mp4
 
