@@ -17,6 +17,7 @@ Give a hand gesture after the dice is rolled.
 ● Gesture Recognition: We removed background from the hand gesture image to get a segmented
 image and developed a CNN architecture which takes segmented image and classifies hand
 gestures.
+
 ● Dice Number Recognition: We Used blog detection of OpenCV library to detect the number of
 circles present on the top face of the die.
 
