@@ -1,4 +1,5 @@
 ### GAME ROBOARM
+This is our submission for event named Hard-Wired conducted by Robotics Club - IITBHU
 There are specific positions for every number on the die and the goal of the game is to rotate the arm by
 60<sup>0</sup>  and close the gripper in the least number of turns. You can control the position of the robot arm with
 hand gestures.
@@ -26,3 +27,16 @@ circles present on the top face of the die.
 ##### Video:
 https://user-images.githubusercontent.com/76437900/145723820-b14dc8e4-c41d-437b-b504-293974a5aebb.mp4
 
+##### Run Simulation
+Run below commands in 3 seperate terminals
+```bash
+roslaunch control run.launch
+```
+```bash
+roscd control
+python3 dice.py
+```
+```bash
+roscd control
+python3 gesture.py
+```
