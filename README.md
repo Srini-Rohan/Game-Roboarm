@@ -1,6 +1,6 @@
 ### GAME ROBOARM
 There are specific positions for every number on the die and the goal of the game is to rotate the arm by
-60 0 and close the gripper in the least number of turns. You can control the position of the robot arm with
+60<sub>0</sub>  and close the gripper in the least number of turns. You can control the position of the robot arm with
 hand gestures.
 We use 3 gestures
 
