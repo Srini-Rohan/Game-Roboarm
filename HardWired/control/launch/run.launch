@@ -1,0 +1,6 @@
+<launch>
+  <include file="$(find arm_moveit_config)/launch/demo.launch">
+  </include>
+  <node name="plan_trajectory" pkg="control" type="control.py"/>
+  <node name="sim2real" pkg="arm_description" type="control.py"/>
+</launch>
