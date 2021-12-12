@@ -4,10 +4,11 @@ There are specific positions for every number on the die and the goal of the gam
 hand gestures.
 We use 3 gestures
 Thumbs Up: Moves the arm to a specific position according to number on dice
+
 Thumbs Down: Moves the arm to initial position
+
 Fist : Closes the gripper
-●
-●
+
 ##### Controls of Game:
 1. Hand Gestures
 2. Roll a Die
