@@ -48,11 +48,11 @@ python3 gesture.py
     </td>
   <td align="center">
      <a href="https://github.com/SaiHarshaKarna">
-    <img src="https://avatars.githubusercontent.com/u/90554422?v=4" width="100px;" alt=""/><br /><sub><b>Varad vinayak Pandey</b></sub></a><br />
+    <img src="https://avatars.githubusercontent.com/u/90554422?v=4" width="100px;" alt=""/><br /><sub><b>Sai Harsha</b></sub></a><br />
 	</td>
   <td align="center">
      <a href="https://github.com/AYUSH-ISHAN">
-    <img src="https://avatars.githubusercontent.com/u/77822265?v=4" width="100px;" alt=""/><br /><sub><b>Vaibhav Tirpathi</b></sub></a><br />
+    <img src="https://avatars.githubusercontent.com/u/77822265?v=4" width="100px;" alt=""/><br /><sub><b>Ayush Ishan</b></sub></a><br />
 	</td>
 
 
