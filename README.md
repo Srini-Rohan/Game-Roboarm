@@ -1,5 +1,6 @@
 ### GAME ROBOARM
 This is our submission for event named Hard-Wired conducted by Robotics Club - IITBHU
+
 There are specific positions for every number on the die and the goal of the game is to rotate the arm by
 60<sup>0</sup>  and close the gripper in the least number of turns. You can control the position of the robot arm with
 hand gestures.
