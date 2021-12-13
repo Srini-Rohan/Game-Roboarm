@@ -37,9 +37,9 @@ while not rospy.is_shutdown():
 		move_group.stop()
 	if value=='5' and value1=='5' and value2=='5':
 		file=open('/home/srinir/catkin_ws/src/HardWired/control/src/dice.txt','r')
-		value=int(file.read())
+		dice=int(file.read())
 		joint_goal = move_group.get_current_joint_values()
-		joint_goal[0] = value*30*3.14/180
+		joint_goal[0] = dice*30*3.14/180
 		joint_goal[1] = 20*3.14/180
 		joint_goal[2] = 0
 		move_group.go(joint_goal, wait=True)
