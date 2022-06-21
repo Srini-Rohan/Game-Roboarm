@@ -1,1 +1,0 @@
-controller_joint_names: ["actuator_forearm_joint", "base_block_rotating_block_joint" ,"rotating_block_vertical_arm_joint", "vertical_arm_forearm_joint" ]
